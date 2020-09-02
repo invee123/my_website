@@ -1,0 +1,28 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invee123/my_website.git"
+  },
+  "author": "Grant Marsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invee123/my_website/issues"
+  },
+  "homepage": "https://github.com/invee123/my_website#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-icons": "^1.0.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
