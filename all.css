@@ -1,3 +1,27 @@
-a:link, a:visited, a:hover, a:active {
-    color: rgb(100, 100, 100);
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: black;
+}
+
+.navbar-color {
+    background-color: #222222;
+}
+
+.academic-card {
+    background-color: #E3EDF2;
+}
+
+
+.img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: auto;
+    width: 40%;
+}
+
+.padded-top {
+    padding-top: 2%;
 }
